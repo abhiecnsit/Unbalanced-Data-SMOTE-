@@ -1,4 +1,4 @@
-# Unbalanced-Data-SMOTE-
+# Handling Unbalanced Dataset using SMOTE
 ## Data:
 Please download the dataset from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 ## Description
